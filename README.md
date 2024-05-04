@@ -1,7 +1,7 @@
 # WDCC React Workshop - Starter project
 
 I created this in the third WDCC React workshop while learning React for the first time. Lots of CSS was already given, but completed a large majority of the ContactCard, Sidebar, and ContactDisplay files. Also set the contact app up to fetch contact data off of a local host page rather than hard coding it into an array. 
-Also, largely learning how to use github with this project!
+I also used this starter project to figure out how to use git and github!
 
 below is what was given in the README:
 
